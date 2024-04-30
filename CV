@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kushal Chaulagain - Curriculum Vitae</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Kushal Chaulagain</h1>
+            <p>Email: kushalnjr10@gmail.com</p>
+            <p>Phone: 9841908737</p>
+            <p>Socials: <a href="https://www.instagram.com/kushal_isokay/">instagram</a>
+                <a href="https://www.facebook.com/kushal.chaulagain.3">facebook</a>
+            </p>
+        </header>
+        
+        <section class="section">
+            <h2>Summary</h2>
+            <p>I am a IT student.bla bla bla</p>
+        </section>
+        
+        <section class="section">
+            <h2>Education</h2>
+            <p>Currently studying bachelor's degree in ISMT college</p>
+        </section>
+        
+        <section class="section">
+            <h2>Work Experience</h2>
+            <p>No work experience till date</p>
+           
+        </section>
+        
+        <section class="section">
+            <h2>Skills</h2>
+            <ul>
+                <li>Frontend</li>
+                <li>Simple backend</li>
+                <li>Basics of programming</li>
+               
+            </ul>
+        </section>
+        
+        <section class="section">
+            <h2>Achievements/Awards</h2>
+            <p>Any relevant achievements or awards.</p>
+        </section>
+        
+        <section class="section">
+            <h2>Certifications</h2>
+            <p>Any relevant certifications.</p>
+        </section>
+        
+      
+        
+    </div>
+</body>
+</html>
